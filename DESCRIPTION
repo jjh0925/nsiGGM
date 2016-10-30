@@ -1,0 +1,12 @@
+Package: nsiGGM
+Type: Package
+Title: Node-structured Integrative Gaussian Graphical Model
+Version: 1.0
+Date: 2016-10-30
+Author: SungHwan Kim, Jae-Hwan Jhong, JungJun Lee, Ja-Yong Koo, ByungYong Lee, SungWon Han
+Maintainer: SungHwan Kim <swiss747@korea.ac.kr>
+Description: This package contains functions for nsiGGM.
+License: GPL (>= 2)
+LazyData: TRUE
+Imports: doMC, mnormt, igraph
+URL: https://sites.google.com/site/sunghwanshome/
